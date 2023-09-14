@@ -1,0 +1,4 @@
+.vscode
+client/.prettierrc
+client/README.md
+server/.prettierrc
